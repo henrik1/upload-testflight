@@ -1,4 +1,4 @@
-name: 'upload-testflight'
+name: 'Upload ios app to testflight'
 description: 'Uploads an app to Apple TestFlight'
 author: 'Henrik Larsen Toft'
 inputs:
